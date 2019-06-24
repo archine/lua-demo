@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: lua-test
+  redis:
+    password:
+    database: 0
+    host: 127.0.0.1
